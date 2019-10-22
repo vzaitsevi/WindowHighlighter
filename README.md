@@ -27,4 +27,4 @@ Configure highlighter frame visual appearence:
   * fuchsia
   * aqua
 
-
+![alt text](https://raw.githubusercontent.com/vzaitsevi/WindowHighlighter/master/demo.png)
